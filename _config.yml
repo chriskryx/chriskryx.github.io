@@ -24,11 +24,16 @@ skills:
  - Tensorflow
  - Django
 
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+
 #Work experience is required
 roles:
  - title: WordPress Web Developer
    start: 2018
    end: Ongoing
+   employer: Basement Crowd
+   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
 
 #Education is required
 education:
@@ -37,6 +42,19 @@ education:
    subject: Real
    school: "C.D Loga" High-school
 
+#This section is optional (as is the image link below)
+coursera:
+   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   courses:
+    - title: Functional Programming Principles in Scala
+      link: https://www.coursera.org/course/progfun
+      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+      date: September 16, 2013
+    - title: Algorithms Design and Analysis, Part 1
+      link: https://www.coursera.org/specializations/algorithms
+      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+      date: April 28, 2014
+      
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
 speakerdeck:
