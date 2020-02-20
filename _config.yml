@@ -23,10 +23,7 @@ skills:
  - Machine learning
  - Tensorflow
  - Django
-
-#Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
-
+ 
 #Work experience is required
 roles:
  - title: WordPress Web Developer
@@ -57,8 +54,8 @@ github:
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: https://stackoverflow.com/users/10699002/christi-tanul
-   flairimageurl: https://stackoverflow.com/users/10699002/christi-tanul
+   profileurl: stackoverflow.com/users/10699002/christi-tanul
+   flairimageurl: https://stackoverflow.com/users/flair/10699002.png
 
 intro: |
   I am a self-taught programmer with 3 years of experience. I have primarily worked in Python, and came across quite some technologies and frameworks thereon such as Django, Web Scraping, Tensorflow and Keras. <br/><br/>
