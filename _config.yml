@@ -33,14 +33,14 @@ roles:
    start: 2018
    end: Ongoing
    employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
+   description: Legaltech startup producing a range of innovative legal products.
 
 #Education is required
 education:
- - level: High-school
+ - level: Bachelor of Science (B.Sc.)
    date: 2017
-   subject: Real
-   school: "C.D Loga" High-school
+   subject: Artificial Intelligence and Computer Science
+   school: University of Groningen
 
 #This section is optional (as is the image link below)
 coursera:
