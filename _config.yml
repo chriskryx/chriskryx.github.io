@@ -15,7 +15,7 @@ primarylinks:
    url: https://stackoverflow.com/users/10699002/christi-tanul
  - title: LinkedIn
    url: www.linkedin.com/in/tanul-christian-94333a17a
-
+   
 #Any buzzword skills you want to include
 skills:
  - Python
@@ -41,16 +41,7 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
+ - chriskryx/web-scraping-tool
 
 #Stackoverflow flair is optional
 stackoverflow:
