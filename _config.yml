@@ -43,6 +43,9 @@ roles:
 #List of interesting Github repo/projects to include - optional
 github:
  - chriskryx/web-scraping-tool
+ - chriskryx/django_blog_project
+ - chriskryx/django-deployment-example
+ - chriskryx/wrapt
 
 #Stackoverflow flair is optional
 stackoverflow:
