@@ -10,13 +10,13 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: LinkedIn
-   url: www.linkedin.com/in/tanul-christian-94333a17a
+   url: https://linkedin.com/in/tanul-christian-94333a17a
  - title: GitHub
    url: https://github.com/chriskryx
  - title: StackOverflow
    url: https://stackoverflow.com/users/10699002/christi-tanul
  - title: CodeWars
-   url: https://www.codewars.com/users/chriskryx/stats
+   url: https://codewars.com/users/chriskryx/stats
    
 #Any buzzword skills you want to include
 skills:
