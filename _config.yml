@@ -50,11 +50,12 @@ stackoverflow:
    flairimageurl: https://stackoverflow.com/users/flair/10699002.png
 
 intro: |
-   I am a developer with 3 years of experience. I have primarily worked in Python, and came across quite some technologies and frameworks thereon such as Django, BeautifulSoup, Tensorflow and Keras.
-   During the past 2 years, before starting with Django, I have spent a reasonable amount of time building websites for different clients, which has given me an exposure to using WordPress.
-   I've always tried to use my knowledge in Python to automate tasks in my life, such as using web scraping to find companies that might need a better website.
-   Nothing's more thrilling than the dopamine of finding the solution to a problem.
-   I am currently working as a Web Developer & IT Specialist for a contract research organization, but I am looking for a different job since the tasks that I am currently doing do not match what I can see myself doing in the future. As to what I have done for my current team so far, I've made the lives of my work colleagues easier by creating an internal wiki website containing most of the useful information that people would need quick access to. I have also created a workflow application that automates the processes of employees requesting to purchase an item/service or going on vacations.
+   I am a developer with 3 years of experience. I have primarily worked in <strong>Python</strong>, and came across quite some technologies and frameworks thereon such as <strong>Django</strong>, <strong>BeautifulSoup</strong>, <strong>Tensorflow</strong> and <strong>Keras</strong>. \n
+   During the past 2 years, before starting with Django, <strong>I have spent a reasonable amount of time building websites for different clients</strong>, which has given me an exposure to using <strong>WordPress</strong>. \n
+   I've always tried to <strong>use my knowledge in coding to automate tasks in my life</strong>, such as using web scraping to find companies that might need a better website.
+   Nothing's more thrilling than the dopamine of finding the solution to a problem. \n
+   I am currently working as a Web Developer & IT Specialist for a contract research organization called OperaCRO, but I am looking for a different job since the tasks that I am currently doing do not match what I can see myself doing in the future. \n
+   As to what I have done for my current team so far, I've made the lives of my work colleagues easier by creating an internal wiki website containing most of the useful information that people would need quick access to. I have also created a workflow application that automates the processes of employees requesting to purchase an item/service or going on vacations.
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>WordPress</strong>: I have built a dual-language website for an industrial engineering company containing an interactive catalogue of their various projects. I have also created a presentation website for a beauty salon containing a portfolio of photos and videos including their work and a Google Maps widget showing their beauty salon’s location. <br/><br/>
