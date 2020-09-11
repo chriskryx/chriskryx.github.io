@@ -9,28 +9,33 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
+ - title: LinkedIn
+   url: www.linkedin.com/in/tanul-christian-94333a17a
  - title: GitHub
    url: https://github.com/chriskryx
  - title: StackOverflow
    url: https://stackoverflow.com/users/10699002/christi-tanul
- - title: LinkedIn
-   url: www.linkedin.com/in/tanul-christian-94333a17a
+ - title: CodeWars
+   url: https://www.codewars.com/users/chriskryx/stats
    
 #Any buzzword skills you want to include
 skills:
  - Python
- - WordPress
- - Machine learning
- - Tensorflow
  - Django
+ - WordPress
+ - BeautifulSoup
+ - HTML/CSS
+ - JS/jQuery
  
 #Work experience is required
 roles:
  - title: WordPress Web Developer
    start: 2018
+   end: 2020
+   description: A reasonable amount of time building websites for different clients, which has given me an exposure to using WordPress. 
+ - title: Web Developer & IT at OperaCRO SRL
+   start: 2020
    end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products.
 
 
 #List of interesting Github repo/projects to include - optional
@@ -43,13 +48,15 @@ stackoverflow:
    flairimageurl: https://stackoverflow.com/users/flair/10699002.png
 
 intro: |
-  I am a self-taught programmer with 3 years of experience. I have primarily worked in Python, and came across quite some technologies and frameworks thereon such as Django, Web Scraping, Tensorflow and Keras. <br/><br/>
-  Nothing can thrill me more than the dopamine of finally finding the solution to a problem.<br/><br/>
-  During the past 2 years I have spent a reasonable amount of time building websites for different clients, which has given me an exposure to using WordPress. <br/><br/>
-  Have always tried to use my knowledge in Python to automate tasks in my life, such as using web scraping to find companies that might need a better website.<br/><br/>
+   I am a developer with 3 years of experience. I have primarily worked in Python, and came across quite some technologies and frameworks thereon such as Django, BeautifulSoup, Tensorflow and Keras.
+   During the past 2 years, before starting with Django, I have spent a reasonable amount of time building websites for different clients, which has given me an exposure to using WordPress.
+   I've always tried to use my knowledge in Python to automate tasks in my life, such as using web scraping to find companies that might need a better website.
+   Nothing's more thrilling than the dopamine of finding the solution to a problem.
+   I am currently working as a Web Developer & IT Specialist for a contract research organization, but I am looking for a different job since the tasks that I am currently doing do not match what I can see myself doing in the future.
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>WordPress</strong>: By using Wordpress I have exposed myself to a little bit of HTML and CSS. I am familiar with most functionalities of WordPress. <br/><br/>
-   <strong>Design</strong>: Even though it is not related with my coding experience, knowledge in Photoshop, After Effects and Premiere Pro is part of my skillset as well. I have used them for some side income by freelancing. <br/><br/>
-   
-   
+   <strong>WordPress</strong>: I have built a dual-language website for an industrial engineering company containing an interactive catalogue of their various projects. I have also created a presentation website for a beauty salon containing a portfolio of photos and videos including their work and a Google Maps widget showing their beauty salon’s location. <br/><br/>
+   <strong>Adobe Software</strong>: Even though it is not related with my coding experience, knowledge in Adobe Photoshop, After Effects and Premiere Pro is part of my skillset as well. I have used them for some side income by freelancing. <br/><br/>
+   <strong>Languages</strong>: While my mother language is <strong>romanian</strong>, I consider myself rather fluent in <strong>english</strong> with good verbal and written communication.
+   <strong>Social skills</strong>: I don't think the right way to show these is through my CV, but if you met me in person you could probably notice these as my predominant social features: <strong>cooperation, clarity and concision, friendliness, respect, open-mindedness</strong>.
+   <strong>Organisational skills</strong>: Same as above, <strong>creating and keeping deadlines like my life depends on it, critical thinking, analysis and attention to details, identifying problems</strong>
