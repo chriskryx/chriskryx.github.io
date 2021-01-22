@@ -52,10 +52,10 @@ stackoverflow:
    flairimageurl: https://stackoverflow.com/users/flair/10699002.png
 
 intro: |
-   I am a developer with 3 years of experience. I have primarily worked in Python, and came across quite some technologies and frameworks thereon such as Django, BeautifulSoup, Tensorflow and Keras.
-During the past 2 years, before starting with Django, I have spent a reasonable amount of time building websites for different clients, which has given me an exposure to using WordPress.
-I've always tried to use my knowledge in Python to automate tasks in my life, such as using web scraping to find companies that might need a better website.
-Nothing's more thrilling than the dopamine of finding the solution to a problem. 
+   I am a developer with 3 years of experience. I have primarily worked in Python, and came across quite some technologies and frameworks thereon such as Django, BeautifulSoup, Tensorflow and Keras.<br/><br/>
+   During the past 2 years, before starting with Django, I have spent a reasonable amount of time building websites for different clients, which has given me an exposure to using WordPress.<br/><br/>
+   I've always tried to use my knowledge in Python to automate tasks in my life, such as using web scraping to find companies that might need a better website.<br/><br/>
+   Nothing's more thrilling than the dopamine of finding the solution to a problem. <br/><br/>
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>WordPress</strong>: I have built several websites while freelancing. Some of the websites were made for an industrial engineering company, for a beauty salon and for a car dealership.<br/><br/>
