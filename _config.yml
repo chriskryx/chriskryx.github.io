@@ -21,8 +21,10 @@ primarylinks:
 skills:
  - Python
  - Docker
+ - Airflow
  - Django
  - WordPress
+ - Bash
  - BeautifulSoup
  - HTML/CSS
  - JS/jQuery
