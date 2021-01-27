@@ -20,6 +20,7 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - Python
+ - Docker
  - Django
  - WordPress
  - BeautifulSoup
@@ -33,6 +34,7 @@ roles:
    end: 2020
    description: A reasonable amount of time building websites for different clients, which has given me an exposure to using WordPress.
   
+ 
  - title: Web Developer & IT services at OperaCRO SRL
    start: 2020
    end: Ongoing
@@ -52,15 +54,15 @@ stackoverflow:
    flairimageurl: https://stackoverflow.com/users/flair/10699002.png
 
 intro: |
-   I am a developer with 3 years of experience. I have primarily worked in Python, and came across some technologies and frameworks thereon such as Django, Docker, BeautifulSoup, Airflow, Tensorflow and Keras.<br/><br/>
+   I am a developer with 3 years of experience. I have primarily worked in Python, and came across some technologies and frameworks thereon such as Django, Docker, Airflow, BeautifulSoup, Tensorflow and Keras.<br/><br/>
    During the past 2 years, I have spent a reasonable amount of time building websites for different clients, which has given me an exposure to using WordPress. I have recently begun experimenting with Django and created some blogs and simple social sites in order to practice using it.<br/><br/>
    I've always tried to use my knowledge in Python to automate tasks in my life, such as using web scraping and Google Maps API to find local companies that might need a website.<br/><br/>
-   Nothing's more thrilling than the dopamine of finding the solution to a problem. <br/><br/>
+   I enjoy learning new technologies and nothing's more thrilling than the dopamine of finding the solution to a problem. <br/><br/>
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>WordPress</strong>: I have built several websites while freelancing. Some of the websites were made for an industrial engineering company, for a beauty salon and for a car dealership.<br/><br/>
    <strong>Adobe Software</strong>: Even though it is not related to my coding experience, knowledge in Adobe Photoshop, After Effects and Premiere Pro is part of my skillset as well. I have used them for side income while freelancing as well. <br/><br/>
    <strong>Languages</strong>: While my mother language is <strong>romanian</strong>, I consider myself rather fluent in <strong>english</strong> with good verbal and written communication. <br/><br/>
-   <strong>Social skills</strong>: I don't think the right way to show these is through my CV, but if you met me in person you could probably notice these as my predominant social features: <strong>cooperation, clarity and concision, friendliness, respect, open-mindedness</strong>. <br/><br/>
-   <strong>Organisational skills</strong>: I tend to <strong>create and keep deadlines</strong> like my life depends on it. <strong>Critical thinking</strong>, <strong>analysis</strong> and <strong>attention to details</strong> and the ability to <strong>identify problems</strong> are also some attributes with which I would present myself (not very modestly). <br/><br/>
-   <strong>Other interests</strong>: Table tennis, Board games, Fitness & Nutrition, Virtual Reality & Augmented Reality, Neuralink, Reddit, Photography
+   <strong>Social skills</strong>: Supposedly everybody presents themselves as such, but I am truly a friendly person. Cooperating with people and seeing results is what I enjoy to do. I prefer blunt and clear work-related communication in order to avoid misunderstandings. I always ask questions when I don't fully grasp an idea, but only if Google hasn't answered them already. I talk respectfully and formally, but if and when the person permits, I prefer an open conversation which does not lack laughter.</strong>. <br/><br/>
+   <strong>Organisational skills</strong>: I tend to <strong>create and keep deadlines</strong> like my life depends on it. <strong>Critical thinking</strong>, <strong>analysis</strong>, <strong>attention to details</strong> and the ability to <strong>identify problems</strong> are also some of my better attributes. I am generally obsessed with keeping a clean environment (both physically and virtually) when I am working in order to increase my productivity. <br/><br/>
+   <strong>Other interests</strong>: Table tennis, Board games, Video Games, Fitness & Nutrition, Virtual & Augmented Reality, Neuralink, Reddit, Photography
