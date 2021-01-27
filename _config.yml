@@ -46,7 +46,8 @@ github:
  - chriskryx/airflow-workflow-project
  - chriskryx/django_blog_project
  - chriskryx/web-scraping-tool
- - chriskryx/wrapt
+ - chriskryx/papers-please-game
+ - chriskryx/sudoku-solver-backtrack-algo
 
 #Stackoverflow flair is optional
 stackoverflow:
