@@ -52,9 +52,9 @@ stackoverflow:
    flairimageurl: https://stackoverflow.com/users/flair/10699002.png
 
 intro: |
-   I am a developer with 3 years of experience. I have primarily worked in Python, and came across quite some technologies and frameworks thereon such as Django, BeautifulSoup, Tensorflow and Keras.<br/><br/>
-   During the past 2 years, before starting with Django, I have spent a reasonable amount of time building websites for different clients, which has given me an exposure to using WordPress.<br/><br/>
-   I've always tried to use my knowledge in Python to automate tasks in my life, such as using web scraping to find companies that might need a better website.<br/><br/>
+   I am a developer with 3 years of experience. I have primarily worked in Python, and came across some technologies and frameworks thereon such as Django, Docker, BeautifulSoup, Airflow, Tensorflow and Keras.<br/><br/>
+   During the past 2 years, I have spent a reasonable amount of time building websites for different clients, which has given me an exposure to using WordPress. I have recently begun experimenting with Django and created some blogs and simple social sites in order to practice using it.<br/><br/>
+   I've always tried to use my knowledge in Python to automate tasks in my life, such as using web scraping and Google Maps API to find local companies that might need a website.<br/><br/>
    Nothing's more thrilling than the dopamine of finding the solution to a problem. <br/><br/>
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
@@ -63,3 +63,4 @@ additionalinfo: |
    <strong>Languages</strong>: While my mother language is <strong>romanian</strong>, I consider myself rather fluent in <strong>english</strong> with good verbal and written communication. <br/><br/>
    <strong>Social skills</strong>: I don't think the right way to show these is through my CV, but if you met me in person you could probably notice these as my predominant social features: <strong>cooperation, clarity and concision, friendliness, respect, open-mindedness</strong>. <br/><br/>
    <strong>Organisational skills</strong>: I tend to <strong>create and keep deadlines</strong> like my life depends on it. <strong>Critical thinking</strong>, <strong>analysis</strong> and <strong>attention to details</strong> and the ability to <strong>identify problems</strong> are also some attributes with which I would present myself (not very modestly). <br/><br/>
+   <strong>Other interests: Table tennis, Board games, Fitness & Nutrition, Virtual Reality & Augmented Reality, Neuralink, Reddit, Photography
