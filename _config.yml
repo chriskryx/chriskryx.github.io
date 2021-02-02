@@ -46,7 +46,7 @@ roles:
 #List of interesting Github repo/projects to include - optional
 github:
  - chriskryx/airflow-workflow-project
- - chriskryx/django_blog_project
+ - chriskryx/django-blog-project
  - chriskryx/web-scraping-tool
  - chriskryx/papers-please-game
  - chriskryx/sudoku-solver-backtrack-algo
